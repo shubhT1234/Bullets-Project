@@ -1,2 +1,2 @@
-# Bullets-Project
-It is just an example of bullet test.
+# p5.play-boilerplate
+Boiler plate for p5.play

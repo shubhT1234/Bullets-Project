@@ -29,7 +29,7 @@ bullet.velocityX=speed;
 console.log(thickness,speed,weight);
   if(hasTouched(bullet,wall)){
     bullet.velocityX=0;
-    wall.visible=false;
+    
     var damage=0.5*speed*speed*weight/thickness*thickness*thickness;
     if(damage>10){
        bullet.changeImage("s");
